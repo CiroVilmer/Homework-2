@@ -1,0 +1,5 @@
+Para correr el código:
+Entrar a la carpeta del ejercicio deseado y correr el archivo test.cpp
+
+g++ test.cpp -Wall -g -o ejecutable
+gdb ejecutable
